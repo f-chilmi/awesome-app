@@ -379,9 +379,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginLeft: 10,
   },
-  leftContent: {
-    // backgroundColor: 'yellow',
-  },
   status: {
     borderWidth: 1,
     borderColor: '#ea6e4e',
